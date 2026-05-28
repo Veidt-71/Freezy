@@ -226,14 +226,14 @@ This project is open-source and available under the MIT License.
 
 ## Adrian Veidt
 
-🌐 Portfolio  
-https://yourportfolio.com
+<!-- 🌐 Portfolio
+https://yourportfolio.com -->
 
 📦 GitHub  
-https://github.com/yourusername
+https://github.com/Veidt-71
 
 📧 Email  
-yourmail@example.com
+adrianveidt71@gmail.com
 
 ---
 
